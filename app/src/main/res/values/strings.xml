@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">SID</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="penerapan_option_menu">Penerapan Option Menu</string>
+    <string name="pemerintah_republik_indonesia">Pemerintah Republik Indonesia</string>
+    <string name="direktorat_jendral_perhubungan_laut">Direktorat Jendral Perhubungan Laut</string>
+    <string name="todo">TODO</string>
+    <string-array name="option_kewarnegaraan">
+        <item>Indonesia</item>
+    </string-array>
+    <string-array name="option_permohonan">
+        <item>Jenis Permohonan</item>
+        <item>Permohonan Baru</item>
+        <item>Perpanjangan</item>
+        <item>Penggantian</item>
+    </string-array>
+    <string-array name="option_kelamin">
+        <item>Jenis Kelamin</item>
+        <item>Pria</item>
+        <item>Wanita</item>
+        <item>X</item>
+    </string-array>
+    <string-array name="option_negara">
+        <item>Indonesia</item>
+    </string-array>
+    <string-array name="option_lokasi_rekam">
+        <item>Jakarta</item>
+        <item>Tanjung Benoa</item>
+    </string-array>
+</resources>

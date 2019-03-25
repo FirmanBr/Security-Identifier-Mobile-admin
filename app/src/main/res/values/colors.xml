@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="primary">#E43F3F</color>
+  <color name="primary_dark">#E12929</color>
+  <color name="primary_darker">#CC1D1D</color>
+  <color name="accent">#FFFFFF</color>
+
+  <color name="black">#000000</color>
+  <color name="jet">#222222</color>
+  <color name="oil">#333333</color>
+  <color name="monsoon">#777777</color>
+  <color name="jumbo">#888888</color>
+  <color name="aluminum">#999999</color>
+  <color name="base">#AAAAAA</color>
+  <color name="iron">#CCCCCC</color>
+  <color name="white">#FFFFFF</color>
+  <color name="Silver">#FFC0C0C0</color>
+  <color name="Gray">#FF808080</color>
+  <color name="Red">#FFFF0000</color>
+  <color name="Maroon">#FF800000</color>
+  <color name="Yellow">#FFFFFF00</color>
+  <color name="Olive">#FF808000</color>
+  <color name="Lime">#FF00FF00</color>
+  <color name="Green">#FF008000</color>
+  <color name="Aqua">#d3f1f1</color>
+  <color name="Teal">#FF008080</color>
+  <color name="Blue">#FF0000FF</color>
+  <color name="Navy">#FF000080</color>
+  <color name="Fuchsia">#FFFF00FF</color>
+  <color name="Purple">#FF800080</color>
+  <color name="colorPrimary">#3F51B5</color>
+  <color name="colorPrimaryDark">#303F9F</color>
+  <color name="colorAccent">#FF4081</color>
+
+  <!--color untuk gradient tansition-->
+  <color name="purple_500">#9c27b0</color>
+  <color name="deep_purple_500">#673ab7</color>
+  <color name="indigo_500">#3f51b5</color>
+  <color name="blue_500">#2196f3</color>
+  <color name="cyan_500">#00bcd4</color>
+  <color name="light_blue_500">#03a9f4</color>
+  <color name="tes">#CBBACC</color>
+  <color name="tes1">#2580B3</color>
+  <color name="tas">#EFF0F1</color>
+    <color name="tus">#2B3D4F</color>
+</resources>
